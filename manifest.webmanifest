@@ -1,13 +1,13 @@
 {
-  "name": "Chat Wave",
-  "short_name": "Chat Wave",
+  "name": "ChatWave",
+  "short_name": "ChatWave",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "background_color": "#0b141a",
+  "background_color": "#061F17",
   "theme_color": "#25D366",
-  "description": "Peer-to-peer chat app demo with voice and video calls.",
+  "description": "ChatWave peer-to-peer chat app with voice and video calls.",
   "icons": [
     {
       "src": "icon-192.png",
@@ -20,12 +20,6 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
-    },
-    {
-      "src": "whatsapp-logo.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any"
     }
   ]
 }
